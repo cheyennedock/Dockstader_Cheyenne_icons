@@ -29,4 +29,11 @@ body { font-size: 16px; }
 
   .st0:hover { opacity:1; fill:#FFFFFF; }
 
-  #badge:hover .sto .st1 
+  /* THESE ARE DYNAMIC STYLES */
+
+  .Selected {color: blue !important;
+  text-transform: uppercase;
+font-style: italic;
+}
+
+  #badge:hover .sto .st1
